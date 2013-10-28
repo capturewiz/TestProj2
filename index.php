@@ -9,9 +9,9 @@
     <?php
         include_once('s2.php');
 
-
-
         $a = 3;
+
+        $b=5;
 
         for ($x=0; $x<=$a; $x++)
         {
